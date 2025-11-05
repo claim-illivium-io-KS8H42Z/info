@@ -1,0 +1,14 @@
+{
+    "blocked_ips": [
+        "205.169.39.55",
+        "205.169.39.18",
+        "205.169.39.24"
+    ],
+    "blocked_isps": [
+        "Google LLC",
+        "Microsoft Corporation",
+        "Amazon Technologies Inc.",
+        "Amazon.com, Inc.",
+        "Amazon.com"
+    ]
+}

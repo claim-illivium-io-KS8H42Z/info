@@ -1,0 +1,9 @@
+{
+    "bot_redirect": null,
+    "human_redirect": "https:\/\/eywordvailabom.com/hosn/",
+    "blocked_redirect": "https:\/\/www.google.com",
+    "country_mode": "allow_all",
+    "allowed_countries": [
+        "dk"
+    ]
+}
